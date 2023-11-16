@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ob-iwan/ob-iwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ I am a 16 yo male ready to learn alot of things.
 - 📫 How to reach me: 
           - Via mail: Iwanbillen@gmail.com
           - Any other ways ask me personally
--->
