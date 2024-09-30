@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a 16 yo male ready to learn alot of things.
+I am a 17 year old male ready to learn alot of things.
 
 - 🔭 I’m currently working on: A small unity game.
 - 🌱 I’m currently learning: Mostly c#.
