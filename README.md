@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a 18 year old male ready to learn alot of things.
+I am a 19 year old male ready to learn alot of things.
 
 - 🔭 I’m currently working on: Looking for internship.
 - 🌱 I’m currently learning: Aseprite.
